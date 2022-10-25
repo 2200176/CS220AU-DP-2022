@@ -27,6 +27,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 ### in week 3
 - Notes from the videos refined and copied on the repo.
+- Visitors and Residents project started with the notes from the videos.
 - Research question still unclear.
 - Written some ideas on the existential risk.
 - Vr map used to analyze my net behaviour.
