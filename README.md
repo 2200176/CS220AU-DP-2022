@@ -36,7 +36,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 4
-- metaverse and the others ideas are interesting
+- metaverse and the others ideas are interesting -> try to link it to the digital identities
+- find academic sources of information for existential risks.
 - the vr map could be a starting point for explaining how I got my research question
 - think about the reserach question
 - watch Aperture video
