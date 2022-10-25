@@ -25,15 +25,13 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-
--
+### in week 3
+- Notes from the videos refined and copied on the repo.
+- Research question still unclear.
+- Written some ideas on the existential risk.
+- Vr map used to analyze my net behaviour.
 
 <br>
 
 ## TODO
-### in week 3
-- Copy notes from the videos on the repo.
-- Think about the research question.
-- Try to link it to the notes.
-- Besides digital identities, work also on the existential risks.
-- Use vr map to analyze my net behaviour.
+### in week 4
