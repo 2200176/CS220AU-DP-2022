@@ -25,6 +25,14 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+### in week 4
+- Metaverse researched (non-academic, youtube video)
+- Existential risk: The danger for humanity of increasingly becoming more digital.
+- I still need to find more academic sources of information for existential risk.
+- VR map edited with some new thoughts.
+- Possible research question: Is the metaverse a risk for the human experience?
+- Thoughts on the link between research question, digital identities and the existential risk
+
 ### in week 3
 - Notes from the videos refined and copied on the repo.
 - Visitors and Residents project started with the notes from the videos.
@@ -35,11 +43,5 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### in week 4
-- Metaverse researched (non-academic, youtube video)
-- Existential risk: The danger for humanity of increasingly becoming more digital.
-- I still need to find more academic sources of information for existential risk.
-- VR map edited with some new thoughts.
-- Possible research question: Is the metaverse a risk for the human experience?
-- Thoughts on the link between research question, digital identities and the existential risk
+### in week 5
 
