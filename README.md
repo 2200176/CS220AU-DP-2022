@@ -44,4 +44,5 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 5
-
+- Think about more keywords
+- Do research
