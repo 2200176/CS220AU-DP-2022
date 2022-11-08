@@ -25,6 +25,11 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+### in week 5
+- Keywords stablished
+- Some research done; Interesting academic information found
+
+
 ### in week 4
 - Metaverse researched (non-academic, youtube video)
 - Existential risk: The danger for humanity of increasingly becoming more digital.
@@ -43,6 +48,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### in week 5
-- Think about more keywords
-- Do research
+### in week 6
+- Take a look at the website examples
+- Keep researching
+- Maybe create a favicon
