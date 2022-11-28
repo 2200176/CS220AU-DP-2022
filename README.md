@@ -25,6 +25,11 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+### in week 7
+- Favicon in progress
+- Articles started
+
+
 ### in week 5
 - Keywords stablished
 - Some research done; Interesting academic information found
@@ -48,7 +53,4 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### in week 6
-- Take a look at the website examples
-- Keep researching
-- Maybe create a favicon
+### in week 8
