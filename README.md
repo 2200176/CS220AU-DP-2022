@@ -25,6 +25,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+### in week 8
+- Teacher's feedback on the work done.
+
 ### in week 7
 - Favicon in progress
 - Articles started
@@ -54,3 +57,5 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 8
+- Write more content
+- Think about how to present the content (be more creative)
