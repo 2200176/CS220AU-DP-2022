@@ -11,6 +11,8 @@ Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If 
 
 <br>
 
+<center><img src="assets/img/vr-map-blank.jpg" alt="drawing" width="200"/></center>
+
 
 First, we take a look horizontal axis. In this model, axes are a range of possibilities, not two incompatible options. The visitor mode thinks about the web as a compilation of tools for getting a particular job done; no social trace is left behind. For example, searching on a web browser. In the resident mode, we choose to go online to be present with other people; there is a social digital trace that remains when we go offline. For example, leaving comments on social media.
 We also add a vertical axis: Personal – Institutional/Professional. This axis explains the degree of personal connection with the digital content. For example, personally I have two Gmail accounts, one related to university and the other for a more personal use.
