@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  </head>
+  
 # Introduction: Digital identities/Visitors and Residents
 Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage.
 
