@@ -3,6 +3,7 @@
 # A reflection on the Metaverse
 ## Introduction: Digital identities/Visitors and Residents
 Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage (jiscnetskills, 2014).
+</p>
 
 
 
@@ -99,7 +100,6 @@ The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The
   
   
 
-</p>
 
 ## References
 Aperture (2022) Metaverse: Beyond Human. 18 February. Available at: [https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) (Accessed: 15 January 2023)
