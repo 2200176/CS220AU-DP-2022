@@ -22,7 +22,7 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 
 
 
-<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map" class="center">
+<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
 
 
 
