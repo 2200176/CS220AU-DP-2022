@@ -21,7 +21,7 @@ The result really made me think about my relationship with the digital world and
 
 Although it’s true that not all my activities leave a digital trail that is equally accessible to the public, it is curious to see how the separation between physical and digital identity is blurring, as we are increasingly developing a traceable digital identity on the web. That led me to imagine a future in which this line blurs completely and about the possible dangers that such a change could mean for our existence.
 
-Sometime later, while browsing the web, I came across a YouTube video that caught my attention. It talks about the Metaverse, a concept recently popularised by the CEO of Facebook, Mark Zuckerberg (Aperture, 2022). This video made me realize that the future I had imagined may not be far away, and encouraged me to try to answer the next question:
+Sometime later, while browsing the web, I came across a [YouTube video](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) that caught my attention. It talks about the Metaverse, a concept recently popularised by the CEO of Facebook, Mark Zuckerberg (Aperture, 2022). This video made me realize that the future I had imagined may not be far away, and encouraged me to try to answer the next question:
 
 *How is the Metaverse a risk for the human experience?*
 
