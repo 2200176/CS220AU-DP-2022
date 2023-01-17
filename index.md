@@ -22,10 +22,9 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 
 
 
-<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
-<p class="aligncenter">
-    <img src="assets/img/vr-map-v3.jpg" width="600" alt="centered image" />
-</p>
+<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map" class="center">
+
+
 
 <p align="justify">
 The result really made me think about my relationship with the digital world and how it has evolved over the years. When I was a little kid, I used to search for the content I needed on the web without leaving any digital trace behind. Nowadays, it’s hard for me to think about an online activity where I don’t leave one. A clear example would be the social trace we leave when we interact with other people on social media, but the non-social content we access is also registered through user accounts and cookies. For example, a streaming platform can get an idea of my personality based on the content I choose to watch.
