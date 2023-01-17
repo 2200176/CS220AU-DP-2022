@@ -3,7 +3,7 @@
 # A reflection on the Metaverse
 ## Introduction: Digital identities/Visitors and Residents
 <p align="justify">
-Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage [(jiscnetskills, 2014)](https://www.youtube.com/watch v=sPOG3iThmRI&ab_channel=jiscnetskills).
+Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage (jiscnetskills, 2014).
 </p>
 
 
@@ -33,7 +33,7 @@ Although it’s true that not all my activities leave a digital trail that is eq
 </p>
 
 <p align="justify">
-Sometime later, while browsing the web, I came across a [YouTube video](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) that caught my attention. It talks about the Metaverse, a concept recently popularised by the CEO of Facebook, Mark Zuckerberg (Aperture, 2022). This video made me realize that the future I had imagined may not be far away, and encouraged me to try to answer the next question:
+Sometime later, while browsing the web, I came across a <a href="https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture">Youtube video</a> [YouTube video](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) that caught my attention. It talks about the Metaverse, a concept recently popularised by the CEO of Facebook, Mark Zuckerberg (Aperture, 2022). This video made me realize that the future I had imagined may not be far away, and encouraged me to try to answer the next question:
 </p>
 
 
@@ -52,7 +52,7 @@ They say a picture (or a video) is worth a thousand words, so let me show you a 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uvufun6xer8&ab_channel=Meta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  
 
 <p align="justify">
