@@ -5,7 +5,6 @@ Marker: Dr Krisztián Hofstädter
 GitHub repository URL: [https://2200176.github.io/CS220AU-DP-2022/ ](https://2200176.github.io/CS220AU-DP-2022/)
 
 ## Checklist
-<!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
 ### General
 I made sure that
@@ -28,11 +27,4 @@ In the `assessement.md` file
 
 The student registration number(s) of the student(s) I provided feedback with is: alba
 
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename the downloaded file and rename it so that they show your student number e.g. `0610279-dp-checklist.md` 
-- submit this file on FASER
-- relax
--->
 
