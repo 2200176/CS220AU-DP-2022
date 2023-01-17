@@ -1,3 +1,5 @@
+<p align="justify">  
+
 # A reflection on the Metaverse
 ## Introduction: Digital identities/Visitors and Residents
 Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage (jiscnetskills, 2014).
@@ -93,7 +95,10 @@ The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The
 The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The reality, however, is that it can be an existential risk to our identity as a species and to how we understand human life, the “human experience”. It can do so by increasing current problems, like social media dangers or environmental issues, but also by creating new ones, like ignoring our real-world problems due to an addiction to an idealized virtual one. However, there are certain measures we can take to help reduce this risk, such as a proper education and learning from past mistakes. As Aperture explains, “like all of humanity’s inventions, the Metaverse will simply be a tool. And as with most tools, it can be used for good, and can be used for evil” (Aperture, 2022).
 
 ## Peer assessment
+  
+  
 
+</p>
 
 ## References
 Aperture (2022) Metaverse: Beyond Human. 18 February. Available at: [https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) (Accessed: 15 January 2023)
