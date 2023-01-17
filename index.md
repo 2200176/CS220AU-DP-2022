@@ -22,13 +22,20 @@ Sometime later, while browsing the web, I came across a YouTube video that caugh
 
 *How is the Metaverse a risk for the human experience?*
 
+
+
 ## What is the Metaverse?
 We should first try to understand what is the Metaverse. A formal definition for it would be something like “a massive virtual environment parallel to the physical world, in which users interact through digital avatars” (Lee et al., 2021, p. 1). This may seem hard to imagine, so let me quote the video I was talking about earlier: “Imagine a world where you wake up, head to the office in the morning, to a party with friends in the evening, and then a live concert at midnight. All while sitting in the warmth of your home or from the comfort of your bed. That might just be part of humanity’s future. A world where time and space mean nothing. Where we will all partially exist and function in a virtual world.” (Aperture, 2022). Moreover, as Chakraborty explains (2022), the Metaverse could be defined as an advanced internet, an evolution of it, where users can communicate, purchase, travel or even work through their avatars.
 They say a picture (or a video) is worth a thousand words, so let me show you a concept demo created by Meta in order to better illustrate this idea:
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=SAL2JZxpoGY&ab_channel=GuardianNews" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 So, seeing how the Metaverse blurs the lines between physical and digital identities, I would like to explore what are its benefits and dangers.
+
+
 
 ## A new world of possibilities…
 The Metaverse promises numerous exciting innovations. First of all, it allows for a much more immersive socializing experience. Nowadays, when we can’t be with our friends and family, we communicate with them mainly through or phones, tablets or computers, but this communication can sometimes feel cold and distant. This technology would allow us to coexist with them in a virtual world, with each one being represented with its own avatar, and we would be able to talk and move as if we were together in the same physical space. As an example, imagine having to congratulate someone on his or her birthday. With this technology, instead of simply texting that person, people could jump into virtual reality and have a birthday party, even if guests are thousands of kilometres apart. Moreover, it could help reduce people’s insecurities when socializing. As Macdonald explains, “virtual worlds can be incredibly liberating. The promise of cyberspace, right back to its inception, has been that it makes us all equal, allowing us to be judged not by our physical presentation or limitations, but by what’s inside our heads, by how we want to be seen” (Macdonald, 2022).
@@ -42,6 +49,8 @@ But not everything in life is about socialising and entertainment, there is some
 Workplaces would have a lot of new tools at their disposal. Schools could explain concepts better by letting students be immersed in virtual spaces, such as a history class where students could virtually travel back in time to other eras. Moreover, schools could offer students the possibility of attending class if they can’t physically do so, or even offer an entire online education within a virtual space. Architects could test their designs as if they were placed in the real world, and doctors could practice surgeries virtually. Also, “remote working would become more advanced. People working online from any remote location could even meet their colleagues in the metaverse in their virtual form” (Chakraborty, 2022).
 Brands could have virtual shops in the Metaverse, which could be modelled differently for every customer depending on his or her interests. In the case of fashion brands, for example, customers could try out clothes through their avatars, even if there is no stock available. In order to pay for the products, users would use cryptocurrency and blockchain technology, as it would probably be the preferred transactional method (Chakraborty, 2022). These currencies would allow for a decentralized economy with an easy to set up open source and web-based payment system, which is anonymous and transparent (Sharma and Sharma, 2018, p. 19)
 
+
+
 ## …and an existential risk?
 Until now, we have only seen the advantages of the Metaverse, but if we stop for a moment and think about it, there are numerous reasons to be worried about it. 
 First of all, on a more practical side, there is a problem regarding how to enter the Metaverse. Nowadays, when we enter virtual worlds, we do so by using virtual reality headsets, like in the case of video games. If this method is still used in the future, it will need to improve in order to be more practical and comfortable during longer periods of time, as nowadays “VR headsets are still very clunky, and most people experience motion sickness or physical pain if they wear them for too long” (Ravenscraft, 2022).
@@ -53,11 +62,17 @@ But most importantly, we could see the loss of our identity as humans. If we spe
 People could suffer severe health issues, such as sight and hearing diseases, and develop addictions to these virtual worlds. Consequently, our species could start losing faculties needed to live in our real world. 
 Things that define how we live, like nationalities, cultures or money, could lose their meaning in the real world. As an example, the nation of Tuvalu, an island in the Pacific, “recently announced that it would be the first country to fully replicate itself as a virtual reproduction in the metaverse” (Guiao, 2022), fearing their demise due to climate change. If this event becomes the norm, we will end up having hollow digital copies of the things that make us humans. 
 
+
+
 ## SWOT analysis
 There is a tool used in business strategy called SWOT analysis, which could help represent the previously explained ideas in a more graphical way. The analysis consists in thinking about the strengths and weaknesses of a project, and also about the opportunities and threats that the environment offers. In this case, it will be applied to the Metaverse (Clegg et al., 2020, p. 452). 
 
+
+
 ## Possible solutions
 The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The reality, however, is that it can be an existential risk to our identity as a species and to how we understand human life, the “human experience”. It can do so by increasing current problems, like social media dangers or environmental issues, but also by creating new ones, like ignoring our real-world problems due to an addiction to an idealized virtual one. However, there are certain measures we can take to help reduce this risk, such as a proper education and learning from past mistakes. As Aperture explains, “like all of humanity’s inventions, the Metaverse will simply be a tool. And as with most tools, it can be used for good, and can be used for evil” (Aperture, 2022).
+
+
 
 ## Conclusion
 The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The reality, however, is that it can be an existential risk to our identity as a species and to how we understand human life, the “human experience”. It can do so by increasing current problems, like social media dangers or environmental issues, but also by creating new ones, like ignoring our real-world problems due to an addiction to an idealized virtual one. However, there are certain measures we can take to help reduce this risk, such as a proper education and learning from past mistakes. As Aperture explains, “like all of humanity’s inventions, the Metaverse will simply be a tool. And as with most tools, it can be used for good, and can be used for evil” (Aperture, 2022).
