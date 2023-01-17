@@ -48,7 +48,7 @@ Entertainment would greatly expand. Nowadays, our relationship with it takes two
 
 Artificial intelligence, which has seen a recent growth in popularity thanks to software like DALL-E (Nicholas, 2022), could help create virtual spaces for the Metaverse, if they continue to develop. Just as an example, I used a web-based AI called Craion to help me design a 2D environment:
 
-(foto AI)
+![AI Image](assets/img/AI_generated_fantasy_world)
 
 If this free tool can create these results with just two words as an input, imagine the future possibilities of using more powerful alternatives.
 But not everything in life is about socialising and entertainment, there is some work to be done, and the Metaverse could also help with that, as “in nearly all cases, a 3D immersive environment is a more intuitive, productive way to communicate information and ideas” (Hern, 2022).
