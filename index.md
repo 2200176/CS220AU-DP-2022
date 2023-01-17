@@ -8,6 +8,7 @@ Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If 
 
 
 ![Plain VR map](assets/img/vr-map-blank.jpg)
+<img src="assets/img/vr-map-blank.jpg" width="600" alt="Plain VR map">
 
 
 <p align="justify">
