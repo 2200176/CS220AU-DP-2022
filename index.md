@@ -96,35 +96,35 @@ The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The
 
 
 ## References
-Aperture (2022) Metaverse: Beyond Human. 18 February. Available at: https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture (Accessed: 15 January 2023)
+Aperture (2022) Metaverse: Beyond Human. 18 February. Available at: [https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture](https://www.youtube.com/watch?v=Q01gSr6j9ZM&ab_channel=Aperture) (Accessed: 15 January 2023)
 
-Chakraborty, K. (2022) ‘The Metaverse: Possibilities and Perils’, Techopedia. Available at: https://www.techopedia.com/the-metaverse-possibilities-and-perils/2/34689 (Accessed: 14 January 2023)
+Chakraborty, K. (2022) ‘The Metaverse: Possibilities and Perils’, Techopedia. Available at: [https://www.techopedia.com/the-metaverse-possibilities-and-perils/2/34689](https://www.techopedia.com/the-metaverse-possibilities-and-perils/2/34689) (Accessed: 14 January 2023)
 
 Clegg, S., Pitelis, C., Schweitzer, J. and Whittle, A. (2020) Strategy Theory and Practice. London: Sage. 
 
-Guiao, J. (2022) ‘The metaverse will be a digital graveyard if we let new technologies distract us from today’s problems’, The Guardian. Available at: https://www.theguardian.com/commentisfree/2022/nov/21/the-metaverse-will-be-a-digital-graveyard-if-we-let-new-technologies-distract-us-from-todays-problems (Accessed: 15 January 2023)
+Guiao, J. (2022) ‘The metaverse will be a digital graveyard if we let new technologies distract us from today’s problems’, The Guardian. Available at: [https://www.theguardian.com/commentisfree/2022/nov/21/the-metaverse-will-be-a-digital-graveyard-if-we-let-new-technologies-distract-us-from-todays-problems](https://www.theguardian.com/commentisfree/2022/nov/21/the-metaverse-will-be-a-digital-graveyard-if-we-let-new-technologies-distract-us-from-todays-problems) (Accessed: 15 January 2023)
 
-Hern, A. (2022) ‘Exit the internet, enter the metaverse – your online future is in 3D’, The Guardian. Available at: https://www.theguardian.com/technology/2022/jul/10/exit-the-internet-enter-the-metaverse-your-online-future-is-in-3d (Accessed: 14 January 2023)
+Hern, A. (2022) ‘Exit the internet, enter the metaverse – your online future is in 3D’, The Guardian. Available at: [https://www.theguardian.com/technology/2022/jul/10/exit-the-internet-enter-the-metaverse-your-online-future-is-in-3d](https://www.theguardian.com/technology/2022/jul/10/exit-the-internet-enter-the-metaverse-your-online-future-is-in-3d) (Accessed: 14 January 2023)
 
-jiscnetskills (2014) Visitors and Residents. 14 March. Available at: https://www.youtube.com/watch?v=sPOG3iThmRI&ab_channel=jiscnetskills (Accessed: 15 January 2023)
+jiscnetskills (2014) Visitors and Residents. 14 March. Available at: [https://www.youtube.com/watch?v=sPOG3iThmRI&ab_channel=jiscnetskills](https://www.youtube.com/watch?v=sPOG3iThmRI&ab_channel=jiscnetskills) (Accessed: 15 January 2023)
 
-Kim, P. (2022) ‘What are the environmental impacts of cryptocurrencies?’, Business Insider. Available at: https://www.businessinsider.com/personal-finance/cryptocurrency-environmental-impact (Accessed: 15 January 2023)
+Kim, P. (2022) ‘What are the environmental impacts of cryptocurrencies?’, Business Insider. Available at: [https://www.businessinsider.com/personal-finance/cryptocurrency-environmental-impact](https://www.businessinsider.com/personal-finance/cryptocurrency-environmental-impact) (Accessed: 15 January 2023)
 
 Lee, L.H et al. (2021) ‘All one needs to know about metaverse: A complete survey on technological singularity, virtual ecosystem, and research agenda’, Journal of Latex class files, 14(8), pp. 1-66.
 
-MacDonald, K. (2022) ‘I’ve seen the metaverse – and I don’t want it’, The Guardian. Available at: https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it (Accessed: 14 January 2023)
+MacDonald, K. (2022) ‘I’ve seen the metaverse – and I don’t want it’, The Guardian. Available at: [https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it) (Accessed: 14 January 2023)
 
-Madej, K. (2003) 'Interactivity: Engagement and Immersion with Digital Narratives - Conventions and Devices' (from the conference ePublishing: Changing Landscapes for Libraries and Authors, Kennesaw State University, Kennesaw, Georgia, USA, February 2003). Available at: https://www.researchgate.net/publication/236853013_Interactivity_Engagement_and_Immersion_with_Digital_Narratives_-_Conventions_and_Devices (Accessed: 14 January 2023)
+Madej, K. (2003) 'Interactivity: Engagement and Immersion with Digital Narratives - Conventions and Devices' (from the conference ePublishing: Changing Landscapes for Libraries and Authors, Kennesaw State University, Kennesaw, Georgia, USA, February 2003). Available at: [https://www.researchgate.net/publication/236853013_Interactivity_Engagement_and_Immersion_with_Digital_Narratives_-_Conventions_and_Devices](https://www.researchgate.net/publication/236853013_Interactivity_Engagement_and_Immersion_with_Digital_Narratives_-_Conventions_and_Devices) (Accessed: 14 January 2023)
 
-Nicholas, J. (2022) ‘Dall-E 2 mini: what exactly is ‘AI-generated art’? How does it work? Will it replace human visual artists?’, The Guardian. Available at: https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists (Accessed: 14 January 2023)
+Nicholas, J. (2022) ‘Dall-E 2 mini: what exactly is ‘AI-generated art’? How does it work? Will it replace human visual artists?’, The Guardian. Available at: [https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists](https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists) (Accessed: 14 January 2023)
 
-Ravenscraft, E. (2022) ‘What Is the Metaverse, Exactly?’, WIRED. Available at: https://www.wired.com/story/what-is-the-metaverse/ (Accessed: 15 January 2023)
+Ravenscraft, E. (2022) ‘What Is the Metaverse, Exactly?’, WIRED. Available at: [https://www.wired.com/story/what-is-the-metaverse/](https://www.wired.com/story/what-is-the-metaverse/) (Accessed: 15 January 2023)
 
-Rose, S. (2022) ‘‘The metaverse will be our slow death!’ Is Facebook losing its $100bn gamble on virtual reality?’, The Guardian. Available at: https://www.theguardian.com/technology/2022/dec/07/metaverse-slow-death-facebook-losing-100bn-gamble-virtual-reality-mark-zuckerberg (Accessed: 15 January 2023)
+Rose, S. (2022) ‘‘The metaverse will be our slow death!’ Is Facebook losing its $100bn gamble on virtual reality?’, The Guardian. Available at: [https://www.theguardian.com/technology/2022/dec/07/metaverse-slow-death-facebook-losing-100bn-gamble-virtual-reality-mark-zuckerberg](https://www.theguardian.com/technology/2022/dec/07/metaverse-slow-death-facebook-losing-100bn-gamble-virtual-reality-mark-zuckerberg) (Accessed: 15 January 2023)
 
 Sharma, A. & Sharma, R. (2018) ‘USING CRYPTO CURRENCY AND ASSOCIATED ADVANTAGES AND DISADVANTAGES’, International Journal of Economics & Finance Research & Applications, 2(2), pp. 17-22.
 
-Tidy, J. (2021) ‘Zuckerberg's metaverse: Lessons from Second Life’, BBC News. Available at: https://www.bbc.com/news/technology-59180273 (Accessed: 15 January 2023)
+Tidy, J. (2021) ‘Zuckerberg's metaverse: Lessons from Second Life’, BBC News. Available at: [https://www.bbc.com/news/technology-59180273](https://www.bbc.com/news/technology-59180273) (Accessed: 15 January 2023)
 
 
 
