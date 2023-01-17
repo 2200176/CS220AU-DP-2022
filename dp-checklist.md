@@ -11,7 +11,7 @@ GitHub repository URL: [https://2200176.github.io/CS220AU-DP-2022/ ](https://220
 I made sure that
 
 - [x] my GitHub username matches my student number;
-- [] my repository to submit is named 'CS220AU-portfolio-2022'.
+- [x] my repository to submit is named 'CS220AU-DP-2022'.
 
 ### Website
 - [x] I used the website to explore the theme given.
