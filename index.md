@@ -23,6 +23,9 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 
 
 <img src="assets/img/vr-map-v3.jpg" width="700" alt="My VR map">
+<p class="aligncenter">
+    <img src="assets/img/vr-map-v3.jpg" alt="centered image" />
+</p>
 
 <p align="justify">
 The result really made me think about my relationship with the digital world and how it has evolved over the years. When I was a little kid, I used to search for the content I needed on the web without leaving any digital trace behind. Nowadays, it’s hard for me to think about an online activity where I don’t leave one. A clear example would be the social trace we leave when we interact with other people on social media, but the non-social content we access is also registered through user accounts and cookies. For example, a streaming platform can get an idea of my personality based on the content I choose to watch.
@@ -40,8 +43,9 @@ Sometime later, while browsing the web, I came across a <a href="https://www.you
 *How is the Metaverse a risk for the human experience?*
 
 
-<p align="justify">
+
 ## What is the Metaverse?
+<p align="justify">
 We should first try to understand what is the Metaverse. A formal definition for it would be something like “a massive virtual environment parallel to the physical world, in which users interact through digital avatars” (Lee et al., 2021, p. 1). This may seem hard to imagine, so let me quote the video I was talking about earlier: “Imagine a world where you wake up, head to the office in the morning, to a party with friends in the evening, and then a live concert at midnight. All while sitting in the warmth of your home or from the comfort of your bed. That might just be part of humanity’s future. A world where time and space mean nothing. Where we will all partially exist and function in a virtual world.” (Aperture, 2022). Moreover, as Chakraborty explains (2022), the Metaverse could be defined as an advanced internet, an evolution of it, where users can communicate, purchase, travel or even work through their avatars.
 </p>
 
@@ -56,7 +60,15 @@ They say a picture (or a video) is worth a thousand words, so let me show you a 
  
  
  
- 
+
+
+
+
+
+
+
+
+
 
 <p align="justify">
 So, seeing how the Metaverse blurs the lines between physical and digital identities, I would like to explore what are its benefits and dangers.
