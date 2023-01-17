@@ -36,7 +36,8 @@ They say a picture (or a video) is worth a thousand words, so let me show you a 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SAL2JZxpoGY&ab_channel=GuardianNews" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uvufun6xer8&ab_channel=Meta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
 
 So, seeing how the Metaverse blurs the lines between physical and digital identities, I would like to explore what are its benefits and dangers.
