@@ -21,6 +21,7 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 </p>
 
 
+
 <img src="assets/img/vr-map-v3.jpg" width="700" alt="My VR map">
 
 <p align="justify">
@@ -52,6 +53,9 @@ They say a picture (or a video) is worth a thousand words, so let me show you a 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SAL2JZxpoGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+ 
+ 
+ 
  
 
 <p align="justify">
