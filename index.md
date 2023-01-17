@@ -7,7 +7,7 @@ Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If 
 </p>
 
 
-<img src="assets/img/vr-map-blank.jpg" width="700" alt="Plain VR map">
+<img src="assets/img/vr-map-blank.jpg" width="600" alt="Plain VR map">
 
 
 <p align="justify">
@@ -22,9 +22,9 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 
 
 
-<img src="assets/img/vr-map-v3.jpg" width="700" alt="My VR map">
+<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
 <p class="aligncenter">
-    <img src="assets/img/vr-map-v3.jpg" alt="centered image" />
+    <img src="assets/img/vr-map-v3.jpg" width="600" alt="centered image" />
 </p>
 
 <p align="justify">
