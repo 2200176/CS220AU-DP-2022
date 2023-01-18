@@ -64,7 +64,7 @@ To help measure my progress, I asked another student in my group for feedback on
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1.1 |     |     |     |   o |     |
-| 1.2 |     |     |  o  |     |     |
+| 1.2 |     |     |     |     |   o |
 | 2.1 |     |     |     |   o |     |
 | 2.2 |     |     |     |     |  o  |
 | 3.1 |     |     |     |  o  |     |
