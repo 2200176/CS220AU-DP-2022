@@ -159,7 +159,7 @@ We have seen how the Metaverse can be a risk for the human experience, but this 
  
 As for the practical issues regarding how to enter the Metaverse, “VR or AR (augmented reality) headsets may be a popular way to access the metaverse, but they are not a prerequisite” (Hern, 2022). For example, another way to enter it could be through the projection of holograms.
 
- Video games can be a great way to test the Metaverse ideas. Currently, there are some of them which offer a similar experience, although in a much smaller scale. Second Life, for example, is a virtual world where players simply socialize without any particular objective (Tidy, 2021). These types of virtual world could be studied, and mistakes could be avoided when the Metaverse comes into play. 
+Video games can be a great way to test the Metaverse ideas. Currently, there are some of them which offer a similar experience, although in a much smaller scale. Second Life, for example, is a virtual world where players simply socialize without any particular objective (Tidy, 2021). These types of virtual worlds could be studied, and mistakes could be avoided when the Metaverse comes into play. 
 
 </p>
 
