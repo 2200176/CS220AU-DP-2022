@@ -155,7 +155,12 @@ There is a tool used in business strategy called SWOT analysis, which could help
 
 ## Possible solutions
 <p align="justify">
-The Metaverse, as envisioned, seems to offer a lot of incredible advantages. The reality, however, is that it can be an existential risk to our identity as a species and to how we understand human life, the “human experience”. It can do so by increasing current problems, like social media dangers or environmental issues, but also by creating new ones, like ignoring our real-world problems due to an addiction to an idealized virtual one. However, there are certain measures we can take to help reduce this risk, such as a proper education and learning from past mistakes. As Aperture explains, “like all of humanity’s inventions, the Metaverse will simply be a tool. And as with most tools, it can be used for good, and can be used for evil” (Aperture, 2022).
+We have seen how the Metaverse can be a risk for the human experience, but this does not mean that we can’t do anything to improve this possible scenario. First of all, if we can’t get rid of the Metaverse, we should at least try to educate people on how to use it correctly. Schools, for example, could introduce it to students and explain its potential dangers and how to avoid them.  
+ 
+As for the practical issues regarding how to enter the Metaverse, “VR or AR (augmented reality) headsets may be a popular way to access the metaverse, but they are not a prerequisite” (Hern, 2022). For example, another way to enter it could be through the projection of holograms.
+
+ Video games can be a great way to test the Metaverse ideas. Currently, there are some of them which offer a similar experience, although in a much smaller scale. Second Life, for example, is a virtual world where players simply socialize without any particular objective (Tidy, 2021). These types of virtual world could be studied, and mistakes could be avoided when the Metaverse comes into play. 
+
 </p>
 
 
