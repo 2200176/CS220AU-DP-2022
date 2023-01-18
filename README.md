@@ -55,7 +55,4 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
-### in week 8
-- Write more content
-- Think about how to present the content (be more creative)
+
