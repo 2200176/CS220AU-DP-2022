@@ -21,8 +21,9 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 </p>
 
 
-
-<img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
+<center>
+ <img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
+</center>
 
 
 
@@ -52,8 +53,9 @@ We should first try to understand what is the Metaverse. A formal definition for
 They say a picture (or a video) is worth a thousand words, so let me show you a concept demo created by Meta in order to better illustrate this idea:
 </p>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SAL2JZxpoGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/SAL2JZxpoGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 
  
@@ -89,8 +91,10 @@ Entertainment would greatly expand. Nowadays, our relationship with it takes two
 Artificial intelligence, which has seen a recent growth in popularity thanks to software like DALL-E (Nicholas, 2022), could help create virtual spaces for the Metaverse, if they continue to develop. Just as an example, I used a web-based AI called Craion to help me design a 2D environment:
 </p>
 
+<center>
+ <img src="assets/img/AI_generated_fantasy_world.png" width="500" alt="AI Image">
+</center>
 
-<img src="assets/img/AI_generated_fantasy_world.png" width="500" alt="AI Image">
 
 <p align="justify">
 If this free tool can create these results with just two words as an input, imagine the future possibilities of using more powerful alternatives.
