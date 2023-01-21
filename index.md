@@ -6,9 +6,15 @@
 Years ago, Marc Prensky put forward the Digital Natives and Immigrants idea: If you are young enough to have grown up with digital technology, then you’re native to it. If not, using technology won’t be innate. In recent years, this theory has become obsolete. Age is not the predominant factor in the successful engagement with digital technology and the web. David White, from the University of Oxford, proposes an alternative model, the Visitor and Resident Map. One not based on age or technical skill, but on our motivation to engage (jiscnetskills, 2014).
 </p>
 
+
+
+
 <center>
  <img src="assets/img/vr-map-blank.jpg" width="600" alt="Plain VR map">
 </center>
+
+
+
 
 <p align="justify">
 First, we take a look horizontal axis. In this model, axes are a range of possibilities, not two incompatible options. The visitor mode thinks about the web as a compilation of tools for getting a particular job done; no social trace is left behind. For example, searching on a web browser. In the resident mode, we choose to go online to be present with other people; there is a social digital trace that remains when we go offline. For example, leaving comments on social media.
@@ -21,9 +27,15 @@ As a student, I encountered this idea and I decided to create my own VR map. Her
 </p>
 
 
+
+
+
 <center>
  <img src="assets/img/vr-map-v3.jpg" width="600" alt="My VR map">
 </center>
+
+
+
 
 
 <p align="justify">
@@ -90,9 +102,17 @@ Entertainment would greatly expand. Nowadays, our relationship with it takes two
 Artificial intelligence, which has seen a recent growth in popularity thanks to software like DALL-E (Nicholas, 2022), could help create virtual spaces for the Metaverse, if they continue to develop. Just as an example, I used a web-based AI called Craion to help me design a 2D environment:
 </p>
 
+
+
+
+
 <center>
  <img src="assets/img/AI_generated_fantasy_world.png" width="500" alt="AI Image">
 </center>
+
+
+
+
 
 
 <p align="justify">
@@ -153,7 +173,14 @@ Things that define how we live, like nationalities, cultures or money, could los
 There is a tool used in business strategy called SWOT analysis, which could help represent the previously explained ideas in a more graphical way. The analysis consists in thinking about the strengths and weaknesses of a project, and also about the opportunities and threats that the environment offers. In this case, it will be applied to the Metaverse (Clegg et al., 2020, p. 452). As a clarification, strengths and weaknesses will be defined according to the current state of the Metaverse (similar social and virtual worlds), and opportunities and threats will be defined according to its possible future development.
 </p>
 
-<img src="assets/img/swot.png" width="600" alt="Plain VR map">
+<center>
+ <img src="assets/img/swot.png" width="600" alt="Plain VR map">
+</center>
+
+
+
+
+
 
 
 ## Possible solutions
